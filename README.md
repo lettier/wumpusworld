@@ -13,6 +13,5 @@ Wumpus World game created in JAVA.
 (C) 2012 David Lettier. http://www.lettier.com/
 
 Bear sprite courtesy of "XX Stone."
-
 Robot sprites courtesy of "ice axe."
 
