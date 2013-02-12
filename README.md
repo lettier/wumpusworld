@@ -2,7 +2,7 @@
 
 WUMPUS WORLD
 
-Wumpus World game created in JAVA. 
+A Wumpus World game created in JAVA. 
 
 * Uses a client/server architecture with its own custom protocol. 
 * Has its own custom GUI complete with sprites. 
@@ -15,5 +15,7 @@ Screenshot of the server side:
 ![screenshot](https://raw.github.com/lettier/wumpusworld/master/screenshot.png)
 
 (C) 2012 David Lettier. http://www.lettier.com/
+
 Bear sprite courtesy of "XX Stone."
+
 Robot sprites courtesy of "ice axe."
