@@ -1,4 +1,4 @@
-![Alt text](https://raw.github.com/lettier/wumpusworld/master/server/wumpus.png)
+![alt text](http://raw.github.com/lettier/wumpusworld/master/server/wumpus.png)
 
 WUMPUS WORLD
 
