@@ -11,3 +11,7 @@ Wumpus World game created in JAVA.
 * The server knows of the all current game states while the client unmasks the game when moving.
 
 (C) 2012 David Lettier. http://www.lettier.com/
+
+Bear sprite courtesy of "XX Stone."
+Robot sprites courtesy of "ice axe."
+
