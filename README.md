@@ -10,8 +10,10 @@ Wumpus World game created in JAVA.
 * Can be played by via the keyboard or by using the AI.
 * The server knows of the all current game states while the client unmasks the game when moving.
 
-(C) 2012 David Lettier. http://www.lettier.com/
+Screenshot of the server side:
 
+![screenshot](https://raw.github.com/lettier/wumpusworld/master/screenshot.png)
+
+(C) 2012 David Lettier. http://www.lettier.com/
 Bear sprite courtesy of "XX Stone."
 Robot sprites courtesy of "ice axe."
-
